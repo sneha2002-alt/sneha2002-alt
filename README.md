@@ -11,8 +11,12 @@ CSE graduate building ML models and responsive web apps. Preparing for software 
 ## ✨ Featured Projects
 
 [![Snapgram](https://github.com/sneha2002-alt/snapgram.git)
+
+
 [![Omnifood](https://github.com/sneha2002-alt/Omnifood-responsive-website.git)
-[![Movie Recommender](https://github.com/sneha2002-alt/Movie-recommendation-system-.git)
+
+
+[![Movie Recommendation System](https://github.com/sneha2002-alt/Movie-recommendation-system-.git)
 
 ## 📈 Recent Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sneha2002-alt&theme=react-dark)
