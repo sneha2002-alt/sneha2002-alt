@@ -6,7 +6,7 @@ CSE graduate building ML models and responsive web apps. Preparing for software 
 **💻 Languages:** Python, C++, TypeScript, HTML/CSS/JS  
 **ML:** Scikit-learn, Pandas, Jupyter  
 **Web:** React, Tailwind, responsive design  
-**🛠 Tools:** Git, VS Code, Anaconda, Streamlit 
+**🛠 Tools:** Git, VS Code, Anaconda, Streamlit   
 **📚 Core Subjects:** Data Structures, OS, DBMS  
 
 ## ✨ Featured Projects
