@@ -3,10 +3,11 @@
 CSE graduate building ML models and responsive web apps. Preparing for software engineering roles.
 
 ## 🛠️ Tech Stack
-**Languages:** Python, C++, TypeScript, HTML/CSS/JS  
+**💻 Languages:** Python, C++, TypeScript, HTML/CSS/JS  
 **ML:** Scikit-learn, Pandas, Jupyter  
 **Web:** React, Tailwind, responsive design  
-**Tools:** Git, VS Code, Anaconda, Streamlit
+**🛠 Tools:** Git, VS Code, Anaconda, Streamlit
+**📚 Core Subjects:** Data Structures, OS, DBMS  
 
 ## ✨ Featured Projects
 
@@ -22,7 +23,9 @@ CSE graduate building ML models and responsive web apps. Preparing for software 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sneha2002-alt&theme=react-dark)
 
 ## 🌱 Currently Learning
-- Data Structures & Algorithms (LeetCode)
+- DSA practice (GATE + coding interviews)
+- Python projects
+- AI/ML basics
 - React + Next.js for fullstack
 - System Design fundamentals
 
