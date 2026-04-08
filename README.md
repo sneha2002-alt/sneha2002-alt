@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sneha Mittal 👋
 
-<!--
-**sneha2002-alt/sneha2002-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE graduate building ML models and responsive web apps. Preparing for software engineering roles.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Python, C++, TypeScript, HTML/CSS/JS  
+**ML:** Scikit-learn, Pandas, Jupyter  
+**Web:** React, Tailwind, responsive design  
+**Tools:** Git, VS Code, Anaconda, Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Featured Projects
+
+[![Snapgram](https://github.com/sneha2002-alt/snapgram.git)
+[![Omnifood](https://github.com/sneha2002-alt/Omnifood-responsive-website.git)
+[![Movie Recommender](https://github.com/sneha2002-alt/Movie-recommendation-system-.git)
+
+## 📈 Recent Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sneha2002-alt&theme=react-dark)
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms (LeetCode)
+- React + Next.js for fullstack
+- System Design fundamentals
+
+---
+**📫 Reach me:**
