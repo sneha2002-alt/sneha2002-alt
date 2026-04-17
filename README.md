@@ -11,7 +11,7 @@ CSE graduate building ML models and responsive web apps. Preparing for software 
 
 ## ✨ Featured Projects
 
-🚀 [Snapgram](https://github.com/sneha2002-alt/snapgram.git) — TypeScript social app
+📸 [Snapgram](https://github.com/sneha2002-alt/snapgram.git) — TypeScript social app
 
 🍔 [Omnifood](https://github.com/sneha2002-alt/Omnifood-responsive-website.git) — Responsive food website
 
